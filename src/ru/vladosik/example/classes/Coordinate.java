@@ -21,5 +21,7 @@ public class Coordinate {
 	public int getY() {
 		return y;
 	}
+	public int testMethode(){
+		return 1;
 
 }
